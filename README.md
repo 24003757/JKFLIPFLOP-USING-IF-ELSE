@@ -47,6 +47,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5.Give inputs in the waveform table.
 
 6.Run the program.
+
+
+.
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
@@ -71,4 +74,8 @@ Developed by: RegisterNumber: 24003757
 
 
 **RESULTS**
+
+
+
+
 Implementing JK flipflop using Verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
